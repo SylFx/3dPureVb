@@ -1,0 +1,24 @@
+3dPvb - UpdateLog
+(C)2013-2017 Sylvain SIMON - www.sylfx.net - www.github.com/sylfx
+
+V1.3 - 21/02/2017
+- Renaming project "Sylfx3dPureVb" simply to "3dPvb" (3dPureVb), and hosting it now on Github
+- Correcting some bugs
+- Updating HTML tutorial page
+- New side UI Graphics
+
+V1.2 - 06/05/2016
+- UI design mod and colors improvement, new side image
+- Improving UI experience with color mouse-over reactions
+- Correcting some bugs
+- New HTML tutorial page (included in the archive) with screen captures
+- The full project has been translated in English
+
+V1.1 - 07/03/2015
+- Add render mode "Wireframe + Hiden Faces"
+- Add render mode "NoShading" (rendering without shading)
+- New UI design
+- Correcting some bugs
+
+V1.0 - 24/06/2013
+- Initial release

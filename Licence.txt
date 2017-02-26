@@ -1,0 +1,7 @@
+3dPvb v1.3
+
+Licence: 
+
+Non commercial, free to use and free to distribute with the full master archive and all files included.
+
+(C)2013-2017 Sylvain SIMON. www.sylfx.net - www.github.com/sylfx
